@@ -45,3 +45,8 @@ console.log("[*] Starting script");
 
 });
 ```
+代码运行结果:
+![9ff85c09e273af71fe97fac7a0a74aa5](https://user-images.githubusercontent.com/74806701/220928510-12768998-c02b-4780-b3f3-a3e464efad26.png)
+
+![73c3593e5f808ac59bdd006f4629d1c5](https://user-images.githubusercontent.com/74806701/220928582-fc389b97-bc79-4577-836c-6a31efaa6006.png)
+
