@@ -1,2 +1,2 @@
 # X-gorgon
-某条x-gorgon
+使用frida-server hook掉某app的x-gorgon方法.
