@@ -1,3 +1,4 @@
+```
 setImmediate(function() {
 //设置时间
 console.log("[*] Starting script");
@@ -34,4 +35,4 @@ console.log("[*] Starting script");
         };
     });
 });
-
+```
